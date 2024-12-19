@@ -4,7 +4,7 @@
 
 ## Author
 
-Anthony D. Mays (@anthonydmays) - [Twitter](https://twitter.com/anthonydmays) | [LinkedIn](https://linkedin.com/in/anthonydmays) | [Github](https://github.com/anthonydmays)
+Anthony D. Mays (@anthonydmays) - [YouTube](https://youtube.com/@anthonydmays) | [Twitter](https://twitter.com/anthonydmays) | [LinkedIn](https://linkedin.com/in/anthonydmays) | [Github](https://github.com/anthonydmays)
 
 ## Purpose
 
