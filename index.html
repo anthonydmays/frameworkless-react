@@ -1,0 +1,52 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <title>Framework-less React</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+</head>
+
+<body>
+
+    <div id="app"></div>
+
+    <script async src="https://ga.jspm.io/npm:es-module-shims@1.10.1/dist/es-module-shims.js"></script>
+    <!--
+            JSPM Generator Import Map
+            Edit URL: https://generator.jspm.io/#U2VhYGCVD80rySzJSU1hyCjJdTDWM9QzZMgpTc5MSdUtSk1MLnEw0DMxs9AzYADzdFPycx0MLfUMsAjoJ+dkpuaVQMShYgBmLoW/YwA
+        -->
+    <script type="importmap">
+    {
+    "imports": {
+        "htm": "https://ga.jspm.io/npm:htm@3.1.1/dist/htm.module.js",
+        "lucide-react": "https://ga.jspm.io/npm:lucide-react@0.468.0/dist/esm/lucide-react.js",
+        "react": "https://ga.jspm.io/npm:react@19.0.0/dev.index.js",
+        "react-dom": "https://ga.jspm.io/npm:react-dom@19.0.0/dev.index.js",
+        "react-dom/client": "https://ga.jspm.io/npm:react-dom@19.0.0/dev.client.js"
+    },
+    "scopes": {
+        "https://ga.jspm.io/": {
+        "process": "https://ga.jspm.io/npm:@jspm/core@2.1.0/nodelibs/browser/process.js",
+        "scheduler": "https://ga.jspm.io/npm:scheduler@0.25.0/dev.index.js"
+        }
+    }
+    }
+    </script>
+
+
+    <script type="module">
+        import htm from "htm";
+        import React from "react";
+        import { createRoot } from "react-dom/client";
+        import App from "./src/App.js";
+
+        const html = htm.bind(React.createElement);
+
+        const root = createRoot(document.getElementById("app"));
+        root.render(html`<${App} />`);
+    </script>
+</body>
+
+</html>
