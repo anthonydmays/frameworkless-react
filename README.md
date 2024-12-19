@@ -2,13 +2,21 @@
 
 # Framework-less React Demo
 
+## Author
+
+Anthony D. Mays (@anthonydmays) - [Twitter](https://twitter.com/anthonydmays) | [LinkedIn](https://linkedin.com/in/anthonydmays) | [Github](https://github.com/anthonydmays)
+
 ## Purpose
 
 This demo shows how to import the React library from NPM via the JSPM server and build components without any compilation or framework. Though not ideal for production apps, it can be useful for rapid prototyping or for enhancing simple static sites that can be easily deployed.
 
-## Author
+## Tools used
 
-Anthony D. Mays (@anthonydmays) - [Twitter](https://twitter.com/anthonydmays) | [LinkedIn](https://linkedin.com/in/anthonydmays) | [Github](https://github.com/anthonydmays)
+* [React](https://react.dev)
+* [HTM](https://github.com/developit/htm)
+* [lit-html (VS Code extension)](https://marketplace.visualstudio.com/items?itemName=bierner.lit-html)
+* [JSPM Generator](https://generator.jspm.io/)
+* [Tailwind CSS](https://tailwindcss.com/)
 
 ## More Resources
 
