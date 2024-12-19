@@ -20,6 +20,11 @@ Learn how I did it by checking out my short [on YouTube](https://youtube.com/sho
 * [JSPM Generator](https://generator.jspm.io/)
 * [Tailwind CSS](https://tailwindcss.com/)
 
+## TODO
+
+[ ] Add example component with embedded CSS stylesheet
+[ ] Experiment with Shadow DOM
+
 ## More Resources
 
 * [Using React without JSX == no build (dev.to)](https://dev.to/dperrymorrow/using-react-without-jsx-no-build-14gg) by David Morrow
