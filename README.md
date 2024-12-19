@@ -22,8 +22,8 @@ Learn how I did it by checking out my short [on YouTube](https://youtube.com/sho
 
 ## TODO
 
-[ ] Add example component with embedded CSS stylesheet
-[ ] Experiment with Shadow DOM
+- [ ] Add example component with embedded CSS stylesheet
+- [ ] Experiment with Shadow DOM
 
 ## More Resources
 
