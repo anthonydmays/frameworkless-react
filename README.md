@@ -10,7 +10,7 @@ Anthony D. Mays (@anthonydmays) - [YouTube](https://youtube.com/@anthonydmays) |
 
 This demo shows how to import the React library from NPM via the JSPM server and build components without any compilation or framework. Though not ideal for production apps, it can be useful for rapid prototyping or for enhancing simple static sites that can be easily deployed.
 
-Learn how I did it by checking out my short [on YouTube]([https://](https://youtube.com/shorts/G2-HIgIUbhY?feature=share).
+Learn how I did it by checking out my short [on YouTube](https://youtube.com/shorts/G2-HIgIUbhY?feature=share).
 
 ## Tools used
 
